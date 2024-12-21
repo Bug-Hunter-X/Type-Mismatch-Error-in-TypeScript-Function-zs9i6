@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: passing an array to a function expecting a string.  The `bug.ts` file contains the erroneous code, which will result in a type mismatch error during compilation.  The `bugSolution.ts` file provides a corrected version.
